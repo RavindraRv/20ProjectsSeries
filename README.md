@@ -6,7 +6,7 @@
 [![ Portfolio App](https://img.icons8.com/?size=1x&id=naDnVpQ3BNkR&format=png)](https://github.com/RavindraRv/samplePortfolioApp) **Portfolio App**
 > Short description or any additional information about the project goes here.
 
-[![ FoodRecipe App](https://img.icons8.com/?size=1x&id=13295&format=png)](https://github.com/RavindraRv/samplePortfolioApp) **FoodRecipe App**
+[![ FoodRecipe App](https://img.icons8.com/?size=1x&id=13295&format=png)](https://github.com/RavindraRv/FoodRecipeApp) **FoodRecipe App**
 > Short description or any additional information about the project goes here.
 <!-- Add 17 more projects following the same pattern -->
 
